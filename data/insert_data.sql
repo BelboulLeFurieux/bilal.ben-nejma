@@ -8,8 +8,9 @@ INSERT INTO continent (continentId, name) VALUES
 (5, 'South America'),
 (6, 'Oceania');
 
+-- adding the data of the 193 countries in the database
 
-INSERT INTO country (countryId, name, continentId, superficie, codeIso) VALUES
+INSERT INTO country (countryId, name, continentId, area, ISOcode) VALUES
 
 -- AFRICA
 (1,'Algeria',1,2381741,'DZ'),
