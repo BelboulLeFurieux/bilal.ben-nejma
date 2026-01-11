@@ -19,7 +19,7 @@ CREATE TABLE country (
 
 CREATE TABLE metrics (
   metricId INT PRIMARY KEY,
-  name VARCHAR(20) NOT NULL
+  name VARCHAR(50) NOT NULL
 );
 
 CREATE TABLE country_metrics (
