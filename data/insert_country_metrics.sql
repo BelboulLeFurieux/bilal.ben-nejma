@@ -9,7 +9,7 @@ USE country_analysis;
 
    
 -- metricId has 10 defined metrics :
--- 1: Population, 2: Urbanization rate, 3: GDP, 4: GDP per capita, 5: LPI, 6: Road network quality, 7: Port infrastructure score, 8: Electricity access %, 9: Political stability index, 10: Labor cost (USD/month)
+-- 1: Population, 2: GDP, 4: GDP per capita,
 
 -- These datasets are large and come mainly from official sources. 
 -- When official data is not easily available, we use information from credible third-party websites, 
