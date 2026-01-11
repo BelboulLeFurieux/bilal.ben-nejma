@@ -1,7 +1,13 @@
 
 USE country_analysis;
 
--- country_metrics : countryId, metricId, value
+-- country_metrics : countryId, metricId, metricValue, metricYear 
+
+
+  
+
+
+   
 -- metricId has 10 defined metrics :
 -- 1: Population, 2: Urbanization rate, 3: GDP, 4: GDP per capita, 5: LPI, 6: Road network quality, 7: Port infrastructure score, 8: Electricity access %, 9: Political stability index, 10: Labor cost (USD/month)
 
@@ -10,7 +16,7 @@ USE country_analysis;
 -- ensuring the research is thorough. 
 -- Note: even if some data points are slightly inaccurate, it does not affect the overall analysis or decision-making for the logistics company.
 
-INSERT INTO country_metrics (countryId, metricId, value) VALUES
+INSERT INTO country_metrics (countryId, metricId, metricValue, metricYear) VALUES
 (1,1,989095),
 (1,2,28.0),
 (1,3,829205),
