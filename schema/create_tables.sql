@@ -18,7 +18,7 @@ CREATE TABLE country (
 
 
 CREATE TABLE metrics (
-  metricId INT PRIMARY KEY,
+  metricId INT AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(50) NOT NULL
 );
 
