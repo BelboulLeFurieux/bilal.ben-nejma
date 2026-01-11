@@ -65,7 +65,7 @@ INSERT INTO country (countryId, name, continentId, superficie, codeIso) VALUES
 (51,'Tunisia',1,163610,'TN'),
 (52,'Uganda',1,241038,'UG'),
 (53,'Zambia',1,752612,'ZM'),
-(54,'Zimbabwe',1,390757,'ZW');
+(54,'Zimbabwe',1,390757,'ZW'),
 
 -- EUROPE
 (55,'Albania',2,28748,'AL'),
@@ -110,7 +110,7 @@ INSERT INTO country (countryId, name, continentId, superficie, codeIso) VALUES
 (94,'Switzerland',2,41285,'CH'),
 (95,'Ukraine',2,603628,'UA'),
 (96,'United Kingdom',2,242495,'GB'),
-(97,'Vatican City',2,1,'VA');
+(97,'Vatican City',2,1,'VA'),
 
 -- ASIA 
 (98,'Afghanistan',3,652230,'AF'),
@@ -159,7 +159,7 @@ INSERT INTO country (countryId, name, continentId, superficie, codeIso) VALUES
 (141,'United Arab Emirates',3,83600,'AE'),
 (142,'Uzbekistan',3,447400,'UZ'),
 (143,'Vietnam',3,331212,'VN'),
-(144,'Yemen',3,527968,'YE');
+(144,'Yemen',3,527968,'YE'),
 
 
 
@@ -187,7 +187,7 @@ INSERT INTO country (countryId, name, continentId, superficie, codeIso) VALUES
 (164,'Saint Lucia',4,617,'LC'),
 (165,'Saint Vincent and the Grenadines',4,389,'VC'),
 (166,'Trinidad and Tobago',4,5130,'TT'),
-(167,'United States',4,9833517,'US');
+(167,'United States',4,9833517,'US'),
 
 -- SOUTH AMERICA
 (168,'Argentina',5,2780400,'AR'),
@@ -201,7 +201,7 @@ INSERT INTO country (countryId, name, continentId, superficie, codeIso) VALUES
 (176,'Peru',5,1285216,'PE'),
 (177,'Suriname',5,163820,'SR'),
 (178,'Uruguay',5,176215,'UY'),
-(179,'Venezuela',5,916445,'VE');
+(179,'Venezuela',5,916445,'VE'),
 
 -- OCEANIA
 (180,'Australia',6,7692024,'AU'),
